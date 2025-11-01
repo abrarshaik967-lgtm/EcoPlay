@@ -18,7 +18,7 @@ To make environmental learning interactive, engaging, and accessible for student
 4. Teachers can monitor and approve their progress.
 
 ## 🎥 Demo Video
-Watch our demo video here: [👉 Click to Watch on YouTube](https://www.youtube.com/YourVideoLink)
+Watch our demo video here: [👉 Click to Watch on YouTube](https://youtu.be/eUE4Ud6XbBU?si=jH-1LiWtyTzRqjDD)
 
 ## 🧩 Tech Overview
 - Frontend: Simple prototype built with no-code platform
